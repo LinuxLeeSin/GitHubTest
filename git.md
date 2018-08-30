@@ -1,4 +1,4 @@
-####Git命令小结
+#### Git命令小结
 
 - ```Git init``` 初始化仓库</br>
 
@@ -28,4 +28,4 @@
 
 > ![git push](https://upload-images.jianshu.io/upload_images/12211484-8bb51c92b44eb747.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
+>Git 三板斧：```git add```  ```git commit -m``` ```git push```
